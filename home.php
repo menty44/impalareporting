@@ -38,7 +38,7 @@ require_once 'account_name.php';
     </ul>
     <br />
     <div class = "col-md-12 well">
-        <center><h1>Welcome <?php echo $acc_name?> to the Reporting system</h1></center>
+        <center><h1>Welcome <font color="#6495ed"><?php echo $acc_name?></font> to the Reporting system</h1></center>
     </div>
 </div>
 <footer class = "navbar navbar-fixed-bottom navbar-inverse">
